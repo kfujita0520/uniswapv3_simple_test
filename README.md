@@ -1,6 +1,6 @@
 # Liquidity Management for Uniswap V3
 Our goal is creating liquidity management module for Uniswap V3. 
-As first milestone, we will write the test script which perform miting position, adding liquidity, remove liquidity in order. 
+As first milestone, we will write a simple test script which performs minting position, adding liquidity, removing liquidity in order. 
 There are a few ways to interact with Uniswap V3 protocol for liquidity management.
 1. directly interact with NonFungiblePositionManager contract
 2. interact through custom smart contract
