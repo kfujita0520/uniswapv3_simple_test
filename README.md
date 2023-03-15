@@ -14,7 +14,8 @@ Since on-chain smart contract does not show clear error message when failed, you
 Here goes a couple of tips, i have faced during the integration.
 - burn function can only use when the liquidity of given position is 0.
 - Given Tick values must comply with restricted logic depending on the pool fee. 
-- position mint function failed during execution with unknown reason.
+- minting function failed during its execution with unknown reason.　
+
 Because of the second issue, we could not complete our goal with this approach alone.
 
 ## Smart Contract
